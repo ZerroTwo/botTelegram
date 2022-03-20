@@ -12,7 +12,7 @@ const bot = new TelegramBot(token, {
    }
 });
 
-let price_all = "16Br.";
+let price_all = "17Br.";
 
 const keyboards = [
    [
