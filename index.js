@@ -63,7 +63,6 @@ const all_salt =
          html: `
 <b>МИШКИ 30мл (50 мг)</b>
 Сладкий вкус якоды  <b>${price_all}</b>
-Хвоя-ягоды  <b>${price_all}</b>
 Чай смородина-лимон  <b>${price_all}</b>
 Ягоды-анис  <b>${price_all}</b>
 Дыня-огурец-арбуз  <b>${price_all}</b>
