@@ -66,9 +66,9 @@ const all_salt =
 Чай смородина-лимон  <b>${price_all}</b>
 Ягоды-анис  <b>${price_all}</b>
 Дыня-огурец-арбуз  <b>${price_all}</b>
-Яблоко-энергетик  <b>${price_all}</b>
 Морс Смородина Калина  <b>${price_all}</b>
    `
+//         Яблоко-энергетик  <b>${price_all}</b>
       },
       {
          name: "FruitDrink",
