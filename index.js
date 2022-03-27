@@ -153,7 +153,7 @@ bot.on('callback_query', (query) => {
       });
    }
    if (query.data === 'pay') {
-      bot.sendMessage(id, 'Свяжитесь с одним из наших менеджеров!', {}).then(() => {
+      bot.sendMessage(id, 'Свяжитесь с нашим менеджером!', {}).then(() => {
          bot.sendMessage(id,
             `
 
