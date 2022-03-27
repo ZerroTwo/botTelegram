@@ -156,9 +156,9 @@ bot.on('callback_query', (query) => {
       bot.sendMessage(id, 'Свяжитесь с одним из наших менеджеров!', {}).then(() => {
          bot.sendMessage(id,
             `
-@K_arpenko
+
 @H_atkevich   
-@Billowwww  
+ 
    `, {
             parse_mode: "HTML",
          });
